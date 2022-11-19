@@ -1,0 +1,80 @@
+body {
+  background-color: #f1f1f1;
+  color: #0f141e;
+  font-size: 16 px;
+  font-weight: 400;
+  font-family: ;
+}
+.container {
+  width: 75%;
+  margin: auto;
+}
+.my-photo {
+  width: 200px;
+  border-radius: 20px;
+  box-shadow: -20px 11px 14px 0px rgba(0, 0, 0, 0.25);
+}
+
+.info p {
+  color: #86898f;
+  margin: 0;
+  font-style: initial;
+  font-weight: bold;
+  text-decoration: underline;
+  /* text-transform: capitalize; */
+  /* letter-spacing: 15px; */
+  /* word-spacing: 42px; */
+}
+
+/* .social {
+  background: green;
+  padding: 15px 50px;
+  border: 10px solid red;
+  border-top-width: 20px;
+  margin: 20px;
+} */
+/* .box-model > div {
+  float: left;
+  background: black;
+  height: 240px;
+  width: 40%;
+  border: 5px solid red;
+  box-sizing: border-box;
+} */
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  color: blue;
+}
+
+a:visited {
+  color: grey;
+}
+
+.bg-green {
+  background: #e5ffe7;
+}
+
+.bg-yellow {
+  background: #fff9dc;
+}
+
+.bg-red {
+  background: #ffe5e5;
+}
+
+.hobbies {
+  padding: 0 20px;
+}
+
+.hobbies li {
+  color: #86898f;
+  margin-bottom: 10 px;
+}
